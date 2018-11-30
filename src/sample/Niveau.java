@@ -25,3 +25,4 @@ public class Niveau {
     void set_px(int _px) { this.px = _px; }
     void set_py(int _py) { this.py = _py; }
 }
+
