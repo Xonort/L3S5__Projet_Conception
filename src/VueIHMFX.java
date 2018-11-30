@@ -9,9 +9,9 @@ public class VueIHMFX {
     //GridPane gridPane = new GridPane();
 
     public VueIHMFX() {
-
+		//DUH
         myButton.setMinSize(80,80);
-
+			
         }
         //dessine();
 
